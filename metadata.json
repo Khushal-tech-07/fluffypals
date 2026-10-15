@@ -1,0 +1,10 @@
+{
+  "name": "FluffyPals India",
+  "description": "Premium ultra-soft 3D GPU fur plush companions for children across India. Featuring real-time interactive WebGL2 fur physics, 16 vibrant colors, and festival gifting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
